@@ -1,0 +1,11 @@
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
++.*
++docs
++go
++test
++LICENSE
++README.md
++schema.png

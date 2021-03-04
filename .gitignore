@@ -1,0 +1,8 @@
+.idea/*
+mysql
+*.swp
+/data/
+venv
+.env
+.envtest
+/Django/main/*

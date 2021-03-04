@@ -1,0 +1,158 @@
+[
+    {
+        "cat": 4,
+        "foodId": 1702,
+        "nutrientId": 312,
+        "value": 0.576
+    },
+    {
+        "cat": 4,
+        "foodId": 1542,
+        "nutrientId": 312,
+        "value": 0.468
+    },
+    {
+        "cat": 4,
+        "foodId": 1514,
+        "nutrientId": 312,
+        "value": 0.391
+    },
+    {
+        "cat": 4,
+        "foodId": 1549,
+        "nutrientId": 312,
+        "value": 0.287
+    },
+    {
+        "cat": 4,
+        "foodId": 1584,
+        "nutrientId": 312,
+        "value": 0.265
+    },
+    {
+        "cat": 6,
+        "foodId": 701,
+        "nutrientId": 312,
+        "value": 1.046
+    },
+    {
+        "cat": 6,
+        "foodId": 700,
+        "nutrientId": 312,
+        "value": 0.863
+    },
+    {
+        "cat": 6,
+        "foodId": 699,
+        "nutrientId": 312,
+        "value": 0.825
+    },
+    {
+        "cat": 6,
+        "foodId": 695,
+        "nutrientId": 312,
+        "value": 0.692
+    },
+    {
+        "cat": 6,
+        "foodId": 684,
+        "nutrientId": 312,
+        "value": 0.594
+    },
+    {
+        "cat": 6,
+        "foodId": 694,
+        "nutrientId": 312,
+        "value": 0.577
+    },
+    {
+        "cat": 6,
+        "foodId": 698,
+        "nutrientId": 312,
+        "value": 0.488
+    },
+    {
+        "cat": 6,
+        "foodId": 683,
+        "nutrientId": 312,
+        "value": 0.437
+    },
+    {
+        "cat": 6,
+        "foodId": 685,
+        "nutrientId": 312,
+        "value": 0.433
+    },
+    {
+        "cat": 6,
+        "foodId": 697,
+        "nutrientId": 312,
+        "value": 0.274
+    },
+    {
+        "cat": 11,
+        "foodId": 673,
+        "nutrientId": 312,
+        "value": 7.522
+    },
+    {
+        "cat": 11,
+        "foodId": 666,
+        "nutrientId": 312,
+        "value": 5.962
+    },
+    {
+        "cat": 11,
+        "foodId": 190,
+        "nutrientId": 312,
+        "value": 2.467
+    },
+    {
+        "cat": 11,
+        "foodId": 219,
+        "nutrientId": 312,
+        "value": 2.4
+    },
+    {
+        "cat": 11,
+        "foodId": 171,
+        "nutrientId": 312,
+        "value": 2.1
+    },
+    {
+        "cat": 11,
+        "foodId": 180,
+        "nutrientId": 312,
+        "value": 1.786
+    },
+    {
+        "cat": 11,
+        "foodId": 201,
+        "nutrientId": 312,
+        "value": 1.627
+    },
+    {
+        "cat": 11,
+        "foodId": 175,
+        "nutrientId": 312,
+        "value": 1.37
+    },
+    {
+        "cat": 11,
+        "foodId": 198,
+        "nutrientId": 312,
+        "value": 1.33
+    },
+    {
+        "cat": 11,
+        "foodId": 211,
+        "nutrientId": 312,
+        "value": 1.3
+    },
+    {
+        "cat": 15,
+        "foodId": 84,
+        "nutrientId": 312,
+        "value": 0.27
+    }
+]

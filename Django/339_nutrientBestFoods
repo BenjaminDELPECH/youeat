@@ -1,0 +1,116 @@
+[
+    {
+        "cat": 5,
+        "foodId": 17,
+        "nutrientId": 339,
+        "value": 1.8
+    },
+    {
+        "cat": 5,
+        "foodId": 16,
+        "nutrientId": 339,
+        "value": 1.5
+    },
+    {
+        "cat": 6,
+        "foodId": 1895,
+        "nutrientId": 339,
+        "value": 1.4
+    },
+    {
+        "cat": 10,
+        "foodId": 2,
+        "nutrientId": 339,
+        "value": 1.973
+    },
+    {
+        "cat": 11,
+        "foodId": 457,
+        "nutrientId": 339,
+        "value": 232.0
+    },
+    {
+        "cat": 11,
+        "foodId": 134,
+        "nutrientId": 339,
+        "value": 10.708
+    },
+    {
+        "cat": 11,
+        "foodId": 115,
+        "nutrientId": 339,
+        "value": 10.58284
+    },
+    {
+        "cat": 11,
+        "foodId": 66,
+        "nutrientId": 339,
+        "value": 10.5
+    },
+    {
+        "cat": 11,
+        "foodId": 462,
+        "nutrientId": 339,
+        "value": 8.3
+    },
+    {
+        "cat": 11,
+        "foodId": 1248,
+        "nutrientId": 339,
+        "value": 5.4
+    },
+    {
+        "cat": 11,
+        "foodId": 1267,
+        "nutrientId": 339,
+        "value": 5.3
+    },
+    {
+        "cat": 11,
+        "foodId": 1265,
+        "nutrientId": 339,
+        "value": 5.0
+    },
+    {
+        "cat": 11,
+        "foodId": 1268,
+        "nutrientId": 339,
+        "value": 4.9
+    },
+    {
+        "cat": 11,
+        "foodId": 445,
+        "nutrientId": 339,
+        "value": 4.8
+    },
+    {
+        "cat": 15,
+        "foodId": 87,
+        "nutrientId": 339,
+        "value": 11.4
+    },
+    {
+        "cat": 15,
+        "foodId": 83,
+        "nutrientId": 339,
+        "value": 3.1
+    },
+    {
+        "cat": 15,
+        "foodId": 88,
+        "nutrientId": 339,
+        "value": 1.7
+    },
+    {
+        "cat": 15,
+        "foodId": 89,
+        "nutrientId": 339,
+        "value": 1.7
+    },
+    {
+        "cat": 15,
+        "foodId": 90,
+        "nutrientId": 339,
+        "value": 1.4
+    }
+]

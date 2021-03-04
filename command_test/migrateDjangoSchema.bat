@@ -1,0 +1,1 @@
+docker exec -it django_api python3 ./Django/manageProd.py migrate

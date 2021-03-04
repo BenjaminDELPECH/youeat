@@ -1,0 +1,24 @@
+image: docker
+
+services:
+  - docker:dind
+
+stages:
+  - test
+  - deploy
+
+
+
+test:
+  stage: test
+  script:
+    - echo run tests in this section
+
+step-deploy-prod:
+  stage: deploy
+  script:
+    - chmod +x ./Django/entryPointLocal.sh
+    - chmod +x ./Django/entryPoint.sh
+    - chmod +x ./RUN_DOCKER.sh
+    - ./RUN_DOCKER.sh
+  environment: production

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96f96f3e-4b2a-4f4d-9700-892ec2365cd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Django/templates/acc_recuperation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youeat/src/pages/FoodListResult.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youeat/src/pages/ForgotPassword.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/users/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/users/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/foods.go" beforeDir="false" afterPath="$PROJECT_DIR$/food/foods.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simplenutritionfrontend3/src/css/allScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenutritionfrontend3/src/css/allScreen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/quasar.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/layouts/HeaderCustom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/layouts/HeaderCustom.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/layouts/MainLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/layouts/MainLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/Auth.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/Auth.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/FoodLine.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/FoodLine.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/FoodList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/FoodList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/MealView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/MealView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/MyMeals.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/MyMeals.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/SearchResult.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/SearchResult.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/pages/SearchResultContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/pages/SearchResultContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/plugins/apollo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/plugins/apollo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/router/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/router/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/store/layout/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/store/layout/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/store/meals/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/store/meals/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/store/meals/query.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/store/meals/query.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/store/user/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/store/user/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/store/user/query.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/store/user/query.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youeat/src/utils/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../youeat/src/utils/utils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../runtime/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mfKHlR6ZrUdnZM5hwCVRiYBkZg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go_api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\projets_persos\simplenutritionfullstack2\go_api2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\projets_persos\simplenutritionfullstack2\go_api2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/go_api2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_api2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../go_api2|$PROJECT_DIR$/server.go" />
+      <package value="github.com/go_api2" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/go_api2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="foodsAndScore" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

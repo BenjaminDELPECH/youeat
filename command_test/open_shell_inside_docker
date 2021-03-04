@@ -1,0 +1,1 @@
+docker exec -ti db /bin/bash

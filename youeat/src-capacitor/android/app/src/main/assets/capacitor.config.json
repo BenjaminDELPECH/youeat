@@ -1,0 +1,10 @@
+{
+  "appId": "com.youeat",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://172.31.192.1:4100"
+  }
+}
